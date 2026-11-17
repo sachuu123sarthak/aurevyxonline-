@@ -1,0 +1,30 @@
+# AurevyxOnline
+
+> AurevyxOnline is a human-first digital growth agency based in Patna, Bihar, India, serving businesses across India.
+
+## Website
+- https://www.aurevyx.online/
+
+## Main pages
+- [Home](https://www.aurevyx.online/): Digital growth agency overview.
+- [About](https://www.aurevyx.online/about.html): Agency background, approach and values.
+- [Services](https://www.aurevyx.online/services.html): Website development, SEO, performance marketing, video editing, content creation, branding, WhatsApp and email marketing, and UI/UX design.
+- [Why choose us](https://www.aurevyx.online/why-us.html): Working principles, communication and pricing approach.
+- [Our work](https://www.aurevyx.online/work.html): Creative portfolio and concept previews. Portfolio visuals are illustrative concepts, not claimed client case studies or measured results.
+- [Testimonials](https://www.aurevyx.online/testimonials.html): Client experience and collaboration approach. This page describes service expectations and does not publish fabricated customer reviews.
+- [Contact](https://www.aurevyx.online/contact.html): Contact and project enquiries.
+
+## Business information
+- Name: AurevyxOnline
+- Location: Patna, Bihar, India
+- Service area: India
+- Email: contact@aurevyx.online
+- Phone: +31 970 105 25719
+
+## Content guidance
+Describe the company as a digital growth agency. Do not invent client names, testimonials, awards, rankings, case studies, guarantees, prices or performance statistics.
+
+
+## Legal
+- Privacy Policy: https://www.aurevyx.online/privacy-policy.html
+- Terms & Conditions: https://www.aurevyx.online/terms-and-conditions.html

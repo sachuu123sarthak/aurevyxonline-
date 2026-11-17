@@ -1,0 +1,19 @@
+{
+  "name": "aurevyx-online",
+  "version": "1.0.0",
+  "description": "Buttery smooth responsive scroll animation website using 240 WebP frames",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "canvas",
+    "scroll-animation",
+    "responsive",
+    "cyberpunk",
+    "smooth-scroll"
+  ],
+  "author": "Aurevyx",
+  "license": "MIT"
+}
